@@ -1,0 +1,8 @@
+# Strict public-release allowlist. New files stay ignored until reviewed.
+*
+!.gitignore
+!README.md
+!strategy_demo.py
+!tests/
+!tests/__init__.py
+!tests/test_strategy_demo.py
